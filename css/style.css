@@ -167,7 +167,7 @@ nav {
     float: left;
     display: initial;
     font-weight: 700;
-    font-size: 40px;
+    font-size: 30px;
     color: #fff;
     text-shadow: 2px 5px 3px rgba(0, 0, 0, 0.06);
     padding: 0;
@@ -315,7 +315,7 @@ a.reqe-button {
     }
 
     #logo a {
-        font-size: 38px;
+        font-size: 20px;
     }
 }
 
@@ -1617,7 +1617,7 @@ a.w3_agile_google {
     }
 
     #logo a {
-        font-size: 36px;
+        font-size: 15px;
     }
 
     .toggle {
@@ -1680,7 +1680,7 @@ a.w3_agile_google {
     }
 
     #logo a {
-        font-size: 34px;
+        font-size: 12px;
     }
 
     .map iframe {
